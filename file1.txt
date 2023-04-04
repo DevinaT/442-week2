@@ -1,3 +1,8 @@
 Welcome to INFO 442 Week 2.
+<<<<<<< HEAD
 Merge conflicts are suppppppppper annoying.
+=======
+I really like 442 my TA is awesome!
+>>>>>>> 90b3fcf (changing line 2)
 Hopefully rebasing can help in collaboration!
+Add a line 4
